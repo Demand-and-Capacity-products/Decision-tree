@@ -1,0 +1,260 @@
+<mxfile host="app.diagrams.net" modified="2023-09-13T09:53:20.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="PDEzetBpYcEbliwv18kr" version="21.7.4" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1105" dy="745" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-1" value="Systems" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="108" y="324" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="System modelling resources" link="https://future.nhs.uk/Demand_Capacity/view?objectId=37445680" id="5E1nAYv6gYLTOcTYY_E6-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="35" y="468" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="SD resources" link="https://future.nhs.uk/Demand_Capacity/view?objectId=38361776" id="5E1nAYv6gYLTOcTYY_E6-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="175" y="468" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-6" value="Specialty / service / team / pathway level modelling" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="784.78" y="272" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="ED model" link="https://www.england.nhs.uk/ourwork/demand-and-capacity/service-level-demand-and-capacity-planning/models/demand-and-capacity-emergency-department-model/" linkTarget="_blank" id="5E1nAYv6gYLTOcTYY_E6-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="480" y="456" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="UR model" link="https://future.nhs.uk/Demand_Capacity/view?objectID=25728976" id="5E1nAYv6gYLTOcTYY_E6-13">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="620" y="456" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Core model" link="https://www.england.nhs.uk/ourwork/demand-and-capacity/service-level-demand-and-capacity-planning/models/demand-and-capacity-core-model/" id="5E1nAYv6gYLTOcTYY_E6-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="760" y="456" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Discharge hub model" link="https://future.nhs.uk/Demand_Capacity/view?objectID=25729136" id="5E1nAYv6gYLTOcTYY_E6-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="900" y="456" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="D&amp;amp;C Lite model" link="https://future.nhs.uk/Demand_Capacity/view?objectID=34047120" id="5E1nAYv6gYLTOcTYY_E6-22">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="836" y="756" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Caseload model" link="https://future.nhs.uk/Demand_Capacity/view?objectID=25729104" id="5E1nAYv6gYLTOcTYY_E6-23">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="668" y="756" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-24" value="What are you looking &lt;br&gt;to model?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="432" y="60" width="134" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-25" value="How robust is your data?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="744" y="564" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-26" value="Other" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="331" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Aggregation module" link="https://www.england.nhs.uk/publication/demand-and-capacity-models-aggregation-module/#:~:text=The%20aggregation%20module%20allows%20you,core%20and%20high%20complexity%20model." id="5E1nAYv6gYLTOcTYY_E6-27">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="240" y="696" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Older IMAS models" link="https://www.england.nhs.uk/ourwork/demand-and-capacity/service-level-demand-and-capacity-planning/models/" id="5E1nAYv6gYLTOcTYY_E6-28">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+            <mxGeometry x="420" y="696" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-24" target="5E1nAYv6gYLTOcTYY_E6-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="216" y="302" as="sourcePoint" />
+            <mxPoint x="266" y="252" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499" y="240" />
+              <mxPoint x="168" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-24" target="5E1nAYv6gYLTOcTYY_E6-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="528" y="410" as="sourcePoint" />
+            <mxPoint x="578" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499" y="240" />
+              <mxPoint x="845" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-1" target="5E1nAYv6gYLTOcTYY_E6-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="156" y="384" as="sourcePoint" />
+            <mxPoint x="578" y="444" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="168" y="420" />
+              <mxPoint x="235" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-40" value="Emergency Department&amp;nbsp;" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-6" target="5E1nAYv6gYLTOcTYY_E6-12" edge="1">
+          <mxGeometry x="0.7692" relative="1" as="geometry">
+            <mxPoint x="552.78" y="416" as="sourcePoint" />
+            <mxPoint x="652.78" y="416" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="845" y="372" />
+              <mxPoint x="540" y="372" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-43" value="Urgent response / &lt;br&gt;crisis response" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-6" target="5E1nAYv6gYLTOcTYY_E6-13" edge="1">
+          <mxGeometry x="0.6478" y="2" relative="1" as="geometry">
+            <mxPoint x="704.78" y="368" as="sourcePoint" />
+            <mxPoint x="652.78" y="464" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="845" y="372" />
+              <mxPoint x="680" y="372" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="5E1nAYv6gYLTOcTYY_E6-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="372" as="sourcePoint" />
+            <mxPoint x="652.78" y="464" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-46" value="Single pathway /&amp;nbsp;&lt;br&gt;simple service" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="5E1nAYv6gYLTOcTYY_E6-45" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-6" target="5E1nAYv6gYLTOcTYY_E6-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="828" y="348" as="sourcePoint" />
+            <mxPoint x="652.78" y="464" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="845" y="372" />
+              <mxPoint x="960" y="372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-48" value="Triage / single point of access /&lt;br&gt;discharge team" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="5E1nAYv6gYLTOcTYY_E6-47" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="36" y="36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-24" target="5E1nAYv6gYLTOcTYY_E6-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="120" as="sourcePoint" />
+            <mxPoint x="384" y="468" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499" y="240" />
+              <mxPoint x="391" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-26" target="5E1nAYv6gYLTOcTYY_E6-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="552" as="sourcePoint" />
+            <mxPoint x="640" y="552" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="391" y="624" />
+              <mxPoint x="300" y="624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-53" value="To aggregate together" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="5E1nAYv6gYLTOcTYY_E6-52" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-21" y="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-26" target="5E1nAYv6gYLTOcTYY_E6-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="552" as="sourcePoint" />
+            <mxPoint x="640" y="552" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="391" y="624" />
+              <mxPoint x="480" y="624" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-55" value="Other options" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="5E1nAYv6gYLTOcTYY_E6-54" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-56" value="Reasonable" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-25" target="5E1nAYv6gYLTOcTYY_E6-23" edge="1">
+          <mxGeometry x="0.619" relative="1" as="geometry">
+            <mxPoint x="416" y="468" as="sourcePoint" />
+            <mxPoint x="516" y="468" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="794" y="712" />
+              <mxPoint x="728" y="712" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-25" target="5E1nAYv6gYLTOcTYY_E6-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="812" y="720" as="sourcePoint" />
+            <mxPoint x="516" y="468" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="794" y="712" />
+              <mxPoint x="896" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-59" value="Poor / limited" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="5E1nAYv6gYLTOcTYY_E6-58" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-1" target="5E1nAYv6gYLTOcTYY_E6-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="434" as="sourcePoint" />
+            <mxPoint x="314" y="384" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="168" y="420" />
+              <mxPoint x="96" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5E1nAYv6gYLTOcTYY_E6-6" target="5E1nAYv6gYLTOcTYY_E6-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="804" y="420" as="sourcePoint" />
+            <mxPoint x="904" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="845" y="372" />
+              <mxPoint x="1104" y="372" />
+              <mxPoint x="1104" y="540" />
+              <mxPoint x="794" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5E1nAYv6gYLTOcTYY_E6-65" value="Complex service /&amp;nbsp;&lt;br&gt;community, MH /&lt;br&gt;long term conditions..." style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" parent="5E1nAYv6gYLTOcTYY_E6-64" connectable="0" vertex="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="D&amp;amp;C tool for services with limited data" link="https://future.nhs.uk/Demand_Capacity/view?objectID=40969264" id="YU3eIzGgAC4eAkwUQVJa-0">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1008" y="756" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="YU3eIzGgAC4eAkwUQVJa-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="YU3eIzGgAC4eAkwUQVJa-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="896" y="712" as="sourcePoint" />
+            <mxPoint x="722" y="468" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1068" y="712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
